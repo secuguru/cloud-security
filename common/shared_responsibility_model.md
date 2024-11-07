@@ -1,6 +1,5 @@
 # Shared Responsibility Model
 
-## Table
 | Layer | IaaS | PaaS | SaaS |
 | ----- | ---- | ---- | ---- |
 | GRC[^1] | Customer | Customer | Customer |
@@ -10,6 +9,4 @@
 | Infrastructue | Shared | Provider | Provider |
 | Physical | Provider | Provider | Provider |
 
-## Reference
-
-  - [^1]: Governance, Risk and Complianceßß
+[^1]: Governance, Risk and Compliance
